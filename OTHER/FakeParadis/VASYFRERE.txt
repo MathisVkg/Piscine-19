@@ -1,0 +1,16 @@
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sodales eros ligula, nec suscipit nulla dictum ac. Pellentesque at leo quis nunc rhoncus placerat vitae non dui. In hac habitasse platea dictumst. Morbi vitae elementum massa. Nullam metus augue, consectetur imperdiet pharetra in, euismod sed purus. Nam at finibus erat. Curabitur auctor sapien eget augue pretium finibus. Etiam tempus, leo sit amet aliquet eleifend, lectus est interdum leo, cursus pellentesque ligula ante sed felis. Duis id leo nec libero fringilla tempus vel ut nunc. Etiam vestibulum ornare urna, vel mattis massa. Vestibulum eget massa vitae elit pretium feugiat a scelerisque nulla.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras id magna condimentum, pretium massa vel, consectetur risus. Fusce tincidunt mi in porta mattis. Aliquam erat volutpat. Duis posuere lectus id ullamcorper laoreet. Sed id risus fermentum, maximus tortor sit amet, dignissim enim. Proin velit lorem, auctor ultricies auctor non, tristique non mauris. allis, interdum tellus ac, elementum tellus. Donec ut commodo nisl. Proin congue, dui at fermentum lobortis, risus est tincidunt est, sit amet lobortis sem erat vel tortor. In hac habitasse platea dictumst. Integer ornare elementum risus, et maximus turpis porttitor sit amet. Nulla sed laoreet ipsum. Donec eget ultricies mi, blandit auctor nulla.
+
+<<<<<<< HEAD
+In ac nibh convallis, interdum tellus ac, elementum tellus. Donec ut commodo nisl. Proin congue, dui at fermentum lobortis, risus est tincidunt est, sit amet lobortis sem erat vel tortor. In hac habitasse platea dictumst. Integer ornare elementum risus, et maximus turpis porttitor sit amet. Nulla sed laoreet ipsum. Donec eget ultricies mi, blandit auctor nulla.
+
+Mauris non nisi scelere neque vel, tristique dolor. Praesent metus felis, luctus quis euismod at, porttitor id magna. Pellentesque venenatis nunc et quam facilisis gravida. Donec non congue felis. Praesent molestie dapibus augue. Fusce pellentesque turpis ipsum, sed hendrerit felis facilisis vel. Sed vulputate nulla tincidunt pretium accumsan. Nullam tincidunt ex ac pharetra facilisis. Praesent malesuada fringilla turpis, et volutpat est ultrices eget. Vestibulum vel efficitur sem. Etiam consequat lectus eu erat luctus, ut mattis nulla aliquam. Etiam sit amet ante convallis sem laoreet vehicula non sed lectus. In pharetra, nulla vel tincidunt mattis, nisl nisi venenatis nibh, vel elementum nulla risus ac purus. 
+
+
+ceci est du texte pour foutre la merde
+on verra bien si ca passe
+
+=======
+Mauris non nisi scelerisque, suscipit neque vel, tristique dolor. Praesent metus felis, luctus quis euismod at, porttitor id magna. Pellentesque venenatis nunc et quam facilisis gravida. Donec non congue felis. Praesent molestie dapibus augue. Fusce pellentesque turpis ipsum, sed hendrerit felis facilisis vel. Sed vulputate nulla tincidunt pretium accumsan. Nullam tincidunt ex ac pharetra facilisis. Praesent malesuada fringilla turpis, et volutpat est ultrices eget. Vestibulum vel efficitur sem. Etiam consequat lectus eu erat luctus, ut mattis nulla aliquam. Etiam sit amet ante convallis sem laoreet vehicula non sed lectus. In pharetra, nulla vel tincidunt mattis, nisl nisi venenatis nibh, vel elementum nulla risus ac purus. 
+>>>>>>> 390cb5c4d413c99e798abcd9016803418e98b173
